@@ -26,5 +26,5 @@ A lightweight Python-based Network Intrusion Detection System that monitors netw
 1. **Clone the repo or create your project folder:**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Tej314/nids.git
 cd nids
